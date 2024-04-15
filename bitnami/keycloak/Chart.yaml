@@ -15,12 +15,12 @@ dependencies:
 - condition: postgresql.enabled
   name: postgresql
   repository: oci://registry-1.docker.io/bitnamicharts
-  version: 14.x.x
+  version: 15.2.5
 - name: common
   repository: oci://registry-1.docker.io/bitnamicharts
   tags:
   - bitnami-common
-  version: 2.x.x
+  version: 2.19.1
 description: Keycloak is a high performance Java-based identity and access management solution. It lets developers add an authentication layer to their applications with minimum effort.
 home: https://bitnami.com
 icon: https://bitnami.com/assets/stacks/keycloak/img/keycloak-stack-220x234.png
