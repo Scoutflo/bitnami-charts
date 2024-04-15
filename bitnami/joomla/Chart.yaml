@@ -15,7 +15,6 @@ dependencies:
 - condition: mariadb.enabled
   name: mariadb
   repository: oci://registry-1.docker.io/bitnamicharts
-  version: 11.3.2
 - name: common
   repository: oci://registry-1.docker.io/bitnamicharts
   tags:
