@@ -10,7 +10,7 @@
     <a href="https://github.com/bitnami/charts/actions/workflows/cd-pipeline.yml"><img src="https://github.com/bitnami/charts/actions/workflows/cd-pipeline.yml/badge.svg" /></a>
 </p>
 
-# The Bitnami Library for Kubernetes - Test Commit 2
+# The Bitnami Library for Kubernetes - Test Commit 3
 
 Popular applications, provided by [Bitnami](https://bitnami.com), ready to launch on Kubernetes using [Kubernetes Helm](https://github.com/helm/helm).
 
